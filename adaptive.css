@@ -185,8 +185,12 @@
     .heart {
         color: #7a0f21;
         font-size: 37px;
-        bottom: -8px;
-        right: 0px;
+        bottom: -16px;
+        right: 2px;
+    }
+    .heart svg {
+        width: 29px;
+        height: 40px;
     }
     .location-info p {
         font-size: 22px;
@@ -295,9 +299,10 @@
     .heart {
         color: #7a0f21;
         font-size: 37px;
-        bottom: -8px;
-        right: 0px;
+        bottom: -16px;
+        right: 2px;
     }
+
     .location-info p {
         font-size: 22px;
     }
@@ -390,7 +395,7 @@
         top: -87px;
     }
     .heart {
-        right: -1px;
+        right: 2px;
     }
     .location-info p {
         font-size: 18px;

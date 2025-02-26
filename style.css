@@ -37,6 +37,7 @@
     transition: opacity 0.8s ease-out, transform 3s ease-out;
 }
 
+
 .show {
     opacity: 1;
     transform: translateY(0);
@@ -144,9 +145,13 @@
     color: #7a0f21;
     font-size: 46px;
     position: absolute;
-    bottom: -5px;
-    right: 3px;
+    bottom: -8px;
+    right: 1px;
     z-index: -1;
+}
+.heart svg {
+    width: 49px;
+    height: 40px;
 }
 
 .day.special {
