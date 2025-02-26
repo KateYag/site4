@@ -1,0 +1,490 @@
+@media (max-width: 1024px) {
+    .container {
+        max-width: 950px;
+
+    }
+
+    .photo-one img {
+        width: 579px;
+    }
+
+    .back-clip {
+        right: -142px;
+    }
+
+    .main img {
+        right: -178px;
+    }
+
+    .organizer img {
+        left: -251px;
+    }
+
+    .presence {
+        padding-bottom: 50px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 600px;
+    }
+
+    .photo-one img {
+        width: 451px;
+    }
+
+    .main img {
+        right: -673px;
+        top: -26px;
+    }
+
+    .dear {
+        font-size: 90px;
+    }
+
+    .timout {
+        padding: 0;
+    }
+
+}
+
+@media (max-width: 625px) {
+    .container {
+        max-width: 392px;
+    }
+
+
+    .invite {
+        padding: 203px 0 190px 0;
+    }
+
+    .invite .name {
+        color: #e8e5e0;
+        font-size: 300px;
+    }
+    .invite-name {
+        color: #7a0f21;
+        font-size: 40px;
+    }
+
+        .photo-one img {
+            width: 378px;
+        }
+
+    .back-clip {
+        right: -90px;
+        top: -70px;
+    }
+    .dear {
+        font-size: 56px;
+    }
+    .no-fonts {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .main {
+        padding: 0 0 50px 0;
+    }
+    .main h2 {
+        font-size: 46px;
+    }
+
+    .program-title, .dresscode-title, .wishes-title, .organizer-title, .location-title, .presence-title, .timout-title {
+        font-size: 60px;
+    }
+    .location-info p {
+        font-size: 28px;
+    }
+
+    .location-address p {
+        font-size: 20px;
+    }
+
+    .program {
+        padding-bottom: 50px;
+    }
+
+    .dresscode-info-text {
+        font-size: 28px;
+    }
+    .organizer-text {
+        font-size: 28px;
+    }
+    .organizer img {
+        left: -461px;
+        top: 287px;
+    }
+    .presence-text {
+        font-size: 28px;
+    }
+    .wedding-form {
+        font-size: 28px;
+    }
+
+    .wedding-form {
+        button {
+            width: 102%;
+        }
+    }
+    .timout-title {
+        font-size: 36px;
+    }
+    .timout-title {
+        margin-bottom: 0px;
+    }
+
+}
+
+
+@media (max-width: 575px) {
+    .container {
+        max-width: 380px;
+    }
+
+
+    .invite .name {
+        color: #e8e5e0;
+        font-size: 209px;
+    }
+    .photo-one img {
+        width: 275px;
+    }
+    .invite {
+        padding: 136px 0 112px 0;
+    }
+    .back-clip {
+        right: -45px;
+    }
+    .photo {
+        padding-bottom: 50px;
+    }
+    .no-fonts {
+        font-size: 22px;
+    }
+    .main h2 {
+        font-size: 36px;
+    }
+    .dear {
+        font-size: 46px;
+    }
+    .calendar {
+        width: 220px;
+        padding: 0px;
+    }
+    .days {
+        gap: 0px;
+        font-size: 16px;
+    }
+    .day {
+        padding: 6px;
+    }
+
+    .heart {
+        color: #7a0f21;
+        font-size: 37px;
+        bottom: -8px;
+        right: 0px;
+    }
+    .location-info p {
+        font-size: 22px;
+    }
+    .location-address a {
+        font-size: 18px;
+    }
+    .program-title, .dresscode-title, .wishes-title, .organizer-title, .location-title, .presence-title, .timout-title {
+        font-size: 46px;
+        margin-bottom: 20px;
+    }
+    .location {
+        padding-bottom: 50px;
+    }
+    .event {
+        grid-template-columns: 129px 1fr;
+        grid-template-rows: 110px;
+    }
+    .timeline {
+        max-width: 380px;
+    }
+    .description span {
+        margin-right: 10px;
+    }
+    .program .container {
+        text-align: left;
+    }
+    .program-title {
+        text-align: center;
+    }
+    .dresscode-info-text {
+        font-size: 22px;
+    }
+    .dresscode-info-block {
+        width: 80px;
+        height: 50px;
+    }
+    .dresscode {
+        padding-bottom: 35px;
+    }
+    .organizer-text {
+        font-size: 22px;
+    }
+    .organizer img {
+        left: -133%;
+        top: 209px;
+    }
+    .presence-text {
+        font-size: 22px;
+    }
+    .presence-text {
+        margin-bottom: 0px;
+    }
+    .wedding-form {
+        font-size: 22px;
+    }
+    .timout-title {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+
+}
+@media (max-width: 425px) {
+    .container {
+        max-width: 380px;
+    }
+
+
+    .invite .name {
+        color: #e8e5e0;
+        font-size: 209px;
+    }
+    .photo-one img {
+        width: 275px;
+    }
+    .invite {
+        padding: 136px 0 112px 0;
+    }
+    .back-clip {
+        right: -45px;
+    }
+    .photo {
+        padding-bottom: 50px;
+    }
+    .no-fonts {
+        font-size: 22px;
+    }
+    .main h2 {
+        font-size: 36px;
+    }
+    .dear {
+        font-size: 46px;
+    }
+    .calendar {
+        width: 220px;
+        padding: 0px;
+    }
+    .days {
+        gap: 0px;
+        font-size: 16px;
+    }
+    .day {
+        padding: 6px;
+    }
+
+    .heart {
+        color: #7a0f21;
+        font-size: 37px;
+        bottom: -8px;
+        right: 0px;
+    }
+    .location-info p {
+        font-size: 22px;
+    }
+    .location-address a {
+        font-size: 18px;
+    }
+    .program-title, .dresscode-title, .wishes-title, .organizer-title, .location-title, .presence-title, .timout-title {
+        font-size: 46px;
+        margin-bottom: 20px;
+    }
+    .location {
+        padding-bottom: 50px;
+    }
+    .event {
+        grid-template-columns: 129px 1fr;
+        grid-template-rows: 110px;
+    }
+    .timeline {
+        max-width: 380px;
+    }
+    .description span {
+        margin-right: 10px;
+    }
+    .program .container {
+        text-align: left;
+    }
+    .program-title {
+        text-align: center;
+    }
+    .dresscode-info-text {
+        font-size: 22px;
+    }
+    .dresscode-info-block {
+        width: 80px;
+        height: 50px;
+    }
+    .dresscode {
+        padding-bottom: 35px;
+    }
+    .organizer-text {
+        font-size: 22px;
+    }
+    .organizer img {
+        left: -133%;
+        top: 209px;
+    }
+    .presence-text {
+        font-size: 22px;
+    }
+    .presence-text {
+        margin-bottom: 0px;
+    }
+    .wedding-form {
+        font-size: 22px;
+    }
+    .timout-title {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+
+}
+
+@media (max-width: 375px) {
+    .container {
+        max-width: 300px;
+    }
+
+    .photo-one img {
+        width: 242px;
+    }
+    .back-clip {
+        right: -45px;
+        top: -52px;
+    }
+    .invite .name {
+        font-size: 195px;
+    }
+    .invite-name {
+        color: #7a0f21;
+        font-size: 36px;
+    }
+    .dear {
+        font-size: 40px;
+    }
+    .no-fonts {
+        font-size: 20px;
+    }
+    .main img {
+        right: -673px;
+        top: -87px;
+    }
+    .heart {
+        right: -1px;
+    }
+    .location-info p {
+        font-size: 18px;
+    }
+    .location-address p {
+        font-size: 15px;
+    }
+    .location-address a {
+        font-size: 15px;
+        padding: 15px
+    }
+    .program-title, .dresscode-title, .wishes-title, .organizer-title, .location-title, .presence-title, .timout-title {
+        font-size: 40px;
+    }
+    .dresscode-info-text {
+        font-size: 18px;
+    }
+
+    .organizer-text {
+        font-size: 18px;
+    }
+    .organizer-name, .organizer-phone {
+        font-size: 36px;
+    }
+    .organizer img {
+        left: -159%;
+        top: 147px;
+    }
+    .presence-text {
+        font-size: 18px;
+    }
+    .wedding-form {
+        button {
+            width: 104%;
+        }
+    }
+     .timout-title {
+        font-size: 30px;
+    }
+    .time-box span {
+        font-size: 28px;
+    }
+    .time-box p {
+        margin: 5px 0 0;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 333px) {
+    .container {
+        max-width: 280px;
+    }
+
+    .photo-one img {
+        width: 207px;
+    }
+    .invite {
+        padding: 105px 0 80px 0;
+    }
+    .dear {
+        font-size: 36px;
+    }
+    .no-fonts {
+        font-size: 18px;
+    }
+    .main h2 {
+        font-size: 30px;
+    }
+    .program-title, .dresscode-title, .wishes-title, .organizer-title, .location-title, .presence-title, .timout-title {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+    .location-address p {
+        margin: 10px 0;
+    }
+    .location-address a {
+        font-size: 14px;
+        padding: 13px;
+    }
+    .organizer-name, .organizer-phone {
+        font-size: 30px;
+    }
+    .organizer img {
+        left: -199%;
+        top: 147px;
+    }
+    .wedding-form {
+        font-size: 18px;
+    }
+    .des {
+        font-size: 15px;
+    }
+    .timout-title {
+        font-size: 26px;
+    }
+
+}
