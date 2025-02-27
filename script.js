@@ -122,7 +122,7 @@ function startCountdown(targetDate) {
 }
 
 // Устанавливаем дату окончания
-const targetDate = new Date("August 7, 2025 12:00:00").getTime();
+const targetDate = new Date("December 20, 2025 12:00:00").getTime();
 startCountdown(targetDate);
 
 
